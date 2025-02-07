@@ -1,6 +1,6 @@
 # 🚀 Learn Supabase - The Open Source Firebase Alternative
 
-![Supabase Logo](https://supabase.com/_next/image?url=%2Fimages%2Flogo%2Fsupabase-logo-wordmark--dark.png&w=256&q=75)
+![Supabase Logo](https://supabase.com/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2Fff25c9c24c9e%2F_next%2Fstatic%2Fmedia%2Flogo-preview.50e72501.jpg&w=3840&q=75&dpl=dpl_GdyJUAywicJzEpQgr4SwV2YzfJPc)
 
 ## 📌 What is Supabase?
 Supabase is an open-source alternative to Firebase that provides authentication, database, storage, and serverless functions—all built on PostgreSQL.
