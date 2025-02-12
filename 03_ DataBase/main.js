@@ -19,10 +19,14 @@ signup_Btn.addEventListener("click", async () => {
         console.log(error.message);
      } else{
 console.log("Data done ");
-        
      }
 
   } catch (err) {
     console.log("unexpected eror" + err.message);
   }
 })
+
+// fetching data 
+// let nmaeporfile = document.getElementById ("")
+
+console.log();
